@@ -1,0 +1,16 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "al",
+            "request": "launch",
+            "name": "Bookshelf 1.0",
+            "server": "https://9c1fbd30083a",
+            "serverInstance": "nav",
+            "tenant": "",
+            "authentication": "UserPassword",
+            "startupObjectId": 50102,
+            "startupObjectType": "Page"
+        }
+    ]
+}

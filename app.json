@@ -1,0 +1,22 @@
+{
+  "id": "0f5a2fe7-375f-4ce9-8c25-474ac5c42fdf",
+  "name": "Bookshelf 1.0",
+  "publisher": "ADS GLOBAL SSO Sdn Bhd",
+  "brief": "",
+  "description": "",
+  "version": "1.0.0.0",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "capabilities": [],
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "12.0.0.0",
+  "application": "12.0.0.0",
+  "idRange": {
+    "from": 50100,
+    "to": 50149
+  }
+}
